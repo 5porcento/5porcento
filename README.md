@@ -3,7 +3,7 @@
 - 🌱 Sou estudante de Engenharia de software 
 - 💞️ I’m looking to collaborate on ...
 - 📫 Me encontre em: twitter: @Kauan_pacheco15
-- 
+- 📧 Email: kauanpacheco.dev@gmail.com
 
 <!---
 5porcento/5porcento is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
