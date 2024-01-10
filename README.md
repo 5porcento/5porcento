@@ -1,7 +1,6 @@
 - 👋 Olá sou Kauan Pacheco 
 - 👀 Estudando bastante
 - 🌱 Sou estudante de Engenharia de software 
-- 💞️ I’m looking to collaborate on ...
 - 📫 Me encontre em: twitter: @Kauan_pacheco15
 - 📧 Email: kauanpacheco.dev@gmail.com
 
